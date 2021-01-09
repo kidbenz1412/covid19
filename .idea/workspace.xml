@@ -20,7 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c22b27c-bde9-43bf-8618-885107393877" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/first-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/canvasjs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/canvasjs.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,28 +55,44 @@
     </option>
   </component>
   <component name="ProjectId" id="1mpbn84MHjemJKo6bRmDMOrKgJ0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/views" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,7 +106,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610193644477</updated>
-      <workItem from="1610193645720" duration="427000" />
+      <workItem from="1610193645720" duration="596000" />
+      <workItem from="1610194264117" duration="21947000" />
     </task>
     <servers />
   </component>
@@ -93,11 +124,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1094" y="700" key="#ESLint" timestamp="1610196881313">
+      <screen x="-1920" y="276" width="1920" height="1055" />
+    </state>
+    <state x="-1094" y="700" key="#ESLint/-1920.276.1920.1055/0.25.1792.1019@-1920.276.1920.1055" timestamp="1610196881313" />
+    <state x="-1147" y="708" key="Github.CreateGistDialog" timestamp="1610194188542">
+      <screen x="-1920" y="276" width="1920" height="1055" />
+    </state>
+    <state x="-1147" y="708" key="Github.CreateGistDialog/-1920.276.1920.1055/0.25.1792.1019@-1920.276.1920.1055" timestamp="1610194188542" />
     <state x="-1144" y="528" key="RollbackChangesDialog" timestamp="1610194054946">
       <screen x="-1920" y="276" width="1920" height="1055" />
     </state>
     <state x="-1144" y="528" key="RollbackChangesDialog/-1920.276.1920.1055/0.25.1792.1021@-1920.276.1920.1055" timestamp="1610194054946" />
+    <state x="-1261" y="558" width="602" height="548" key="find.popup" timestamp="1610209446321">
+      <screen x="-1920" y="276" width="1920" height="1055" />
+    </state>
+    <state x="-1261" y="558" width="602" height="490" key="find.popup/-1920.276.1920.1055/0.25.1792.1019@-1920.276.1920.1055" timestamp="1610201581404" />
+    <state x="-1261" y="558" width="602" height="548" key="find.popup/-1920.276.1920.1055/0.25.1792.1023@-1920.276.1920.1055" timestamp="1610209446321" />
   </component>
 </project>
