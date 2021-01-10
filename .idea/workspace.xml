@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4c22b27c-bde9-43bf-8618-885107393877" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,9 @@
       <workItem from="1610193645720" duration="596000" />
       <workItem from="1610194264117" duration="22689000" />
       <workItem from="1610252631320" duration="2573000" />
-      <workItem from="1610255559557" duration="1047000" />
+      <workItem from="1610255559557" duration="1714000" />
+      <workItem from="1610266981257" duration="311000" />
+      <workItem from="1610267410591" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="update all process except fix day">
       <created>1610218627707</created>
@@ -118,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610255264833</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update chart easy look">
+      <created>1610256633969</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610256633969</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +148,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update all process except fix day" />
     <MESSAGE value="update automatic" />
-    <option name="LAST_COMMIT_MESSAGE" value="update automatic" />
+    <MESSAGE value="update chart easy look" />
+    <option name="LAST_COMMIT_MESSAGE" value="update chart easy look" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1094" y="700" key="#ESLint" timestamp="1610196881313">
@@ -154,10 +164,10 @@
       <screen x="-1920" y="276" width="1920" height="1055" />
     </state>
     <state x="-1144" y="528" key="RollbackChangesDialog/-1920.276.1920.1055/0.25.1792.1021@-1920.276.1920.1055" timestamp="1610194054946" />
-    <state x="-1360" y="527" key="Vcs.Push.Dialog.v2" timestamp="1610255266149">
+    <state x="-1360" y="527" key="Vcs.Push.Dialog.v2" timestamp="1610256644408">
       <screen x="-1920" y="276" width="1920" height="1055" />
     </state>
-    <state x="-1360" y="527" key="Vcs.Push.Dialog.v2/-1920.276.1920.1055/0.25.1792.1021@-1920.276.1920.1055" timestamp="1610255266149" />
+    <state x="-1360" y="527" key="Vcs.Push.Dialog.v2/-1920.276.1920.1055/0.25.1792.1021@-1920.276.1920.1055" timestamp="1610256644408" />
     <state x="-1360" y="527" key="Vcs.Push.Dialog.v2/-1920.276.1920.1055/0.25.1792.1023@-1920.276.1920.1055" timestamp="1610218963354" />
     <state x="-1261" y="558" width="602" height="548" key="find.popup" timestamp="1610209446321">
       <screen x="-1920" y="276" width="1920" height="1055" />
