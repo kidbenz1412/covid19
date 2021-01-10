@@ -126,6 +126,26 @@ class App extends Component {
                   fontSize: 15,
                   indexLabelFontSize: 15,
                   titleFontSize: 15,
+                  includeZero: true,
+                  scaleBreaks: {
+                      type: "wavy",
+                      customBreaks: [{
+                          startValue: 300000,
+                          endValue: 700000
+                      },
+                      {
+                          startValue: 710000,
+                          endValue: 1000000
+                      },
+                      {
+                          startValue: 1100000,
+                          endValue: 10000000
+                      },
+                      {
+                          startValue: 10100000,
+                          endValue: 100000000
+                      },
+                  ]},
               },
               data: [{
                   type: "bar",
