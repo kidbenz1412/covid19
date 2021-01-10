@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c22b27c-bde9-43bf-8618-885107393877" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/assets/canvasjs.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/canvasjs.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,21 +70,6 @@
       <recent name="$PROJECT_DIR$/src/views" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -93,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1610193644477</updated>
       <workItem from="1610193645720" duration="596000" />
-      <workItem from="1610194264117" duration="22311000" />
+      <workItem from="1610194264117" duration="22689000" />
+      <workItem from="1610252631320" duration="1701000" />
     </task>
     <task id="LOCAL-00001" summary="update all process except fix day">
       <created>1610218627707</created>
@@ -109,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610218839033</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update all process except fix day">
+      <created>1610218962106</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610218962106</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,10 +138,10 @@
       <screen x="-1920" y="276" width="1920" height="1055" />
     </state>
     <state x="-1144" y="528" key="RollbackChangesDialog/-1920.276.1920.1055/0.25.1792.1021@-1920.276.1920.1055" timestamp="1610194054946" />
-    <state x="-1360" y="527" key="Vcs.Push.Dialog.v2" timestamp="1610218839984">
+    <state x="-1360" y="527" key="Vcs.Push.Dialog.v2" timestamp="1610218963354">
       <screen x="-1920" y="276" width="1920" height="1055" />
     </state>
-    <state x="-1360" y="527" key="Vcs.Push.Dialog.v2/-1920.276.1920.1055/0.25.1792.1023@-1920.276.1920.1055" timestamp="1610218839984" />
+    <state x="-1360" y="527" key="Vcs.Push.Dialog.v2/-1920.276.1920.1055/0.25.1792.1023@-1920.276.1920.1055" timestamp="1610218963354" />
     <state x="-1261" y="558" width="602" height="548" key="find.popup" timestamp="1610209446321">
       <screen x="-1920" y="276" width="1920" height="1055" />
     </state>

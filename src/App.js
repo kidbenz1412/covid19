@@ -14,7 +14,7 @@ class App extends Component {
       error: null,
       isLoaded: false,
       data: [],
-      date: '',
+      date: "Loading...",
     };
   }
 
@@ -25,7 +25,7 @@ class App extends Component {
   filterMonth(array) {
       array.forEach(function(value,index){
           Object.keys(array[index].timeline.cases).forEach(function (valueCases,indexCases){
-              if(valueCases.split("/")[0] != 12){
+              if(valueCases.split("/")[0] != (12-new Date().getMonth())){
                   delete array[index].timeline.cases[valueCases]
               }
           })
@@ -66,12 +66,10 @@ class App extends Component {
       var i = 0
       var self = this
 
-
       setInterval(function (){
           if(self.state.isLoaded) {
-
               self.renderData(i)
-              if(i==30){
+              if(i==Object.keys(self.state.data[i].timeline.cases).length-1){
                   i=0
               } else {
                   i++
@@ -87,9 +85,11 @@ class App extends Component {
           formatData.push({y:Object.values(element.timeline.cases)[i], label: element.country}),
       )
 
+      date = new Date(date)
+
       this.setState({
           formatData: formatData,
-          date: date
+          date: date.getDate() + "/" + (date.getMonth() + 1) + "/" + date.getFullYear()
       })
   }
 
