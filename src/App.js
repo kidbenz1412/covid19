@@ -130,19 +130,23 @@ class App extends Component {
                   scaleBreaks: {
                       type: "wavy",
                       customBreaks: [{
-                          startValue: 300000,
-                          endValue: 700000
+                          startValue: 10000,
+                          endValue: 50000
                       },
                       {
-                          startValue: 710000,
+                          startValue: 100000,
+                          endValue: 200000
+                      },
+                      {
+                          startValue: 300000,
                           endValue: 1000000
                       },
                       {
-                          startValue: 1100000,
+                          startValue: 1050000,
                           endValue: 10000000
                       },
                       {
-                          startValue: 10100000,
+                          startValue: 10005000,
                           endValue: 100000000
                       },
                   ]},
